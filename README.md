@@ -12,6 +12,7 @@
 - **[基于keepalived的nginx高可用方案](http://wosyingjun.iteye.com/blog/2313147)**
 - **[Druid（数据源配置 sql防注入 sql性能监控)](http://wosyingjun.iteye.com/blog/2306139)**
 - **[Dubbo+Zookeeper分布式服务框架](http://dubbo.io/Home-zh.htm)**
+- **关于Dubbo2.8.4pom报错问题请看：http://dangdangdotcom.github.io/dubbox/demo.html**
 - **合理的分布式服务划分（common+api+service+web）**
 - **[资源调度和治理中心(SOA)（dubbo-admin）](https://github.com/dangdangdotcom/dubbox/tree/master/dubbo-admin)**
 - **[服务监控方案(dubbo-monitor)](https://github.com/handuyishe/dubbo-monitor)**
